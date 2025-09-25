@@ -32,5 +32,9 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blog-api.git
+git clone https://github.com/mehtesham3/Blog-api.git
 cd blog-api
+```
+2. Install dependencies:
+```bash
+npm install
